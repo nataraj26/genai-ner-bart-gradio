@@ -185,6 +185,8 @@ gr.close_all()
 
 ### OUTPUT:
 
+<img width="1175" height="625" alt="Screenshot 2025-10-31 113548" src="https://github.com/user-attachments/assets/c20fb241-bb00-4ec7-a624-11254e77a5c9" />
 
 
 ### RESULT:
+To develop a prototype application for Named Entity Recognition (NER) by leveraging a fine-tuned BART model and deploying the application using the Gradio framework for user interaction and evaluation excuted successfull.
